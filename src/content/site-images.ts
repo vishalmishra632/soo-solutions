@@ -284,6 +284,27 @@ export const siteImages = {
     alt: "Rolls of thermal receipt paper",
     blurDataURL: "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAwAA4BaJaQAAuBjQraQAAD+9SQ+QwIWwuLCcOJWyzsaU5L7XIu6KJTy2AD2Z7jHu7IhLttxUDSO8AA=",
   },
+  "about-sault": {
+    src: "/images/about/sault-ste-marie-waterfront.webp",
+    width: 1600,
+    height: 900,
+    alt: "The Sault Ste. Marie waterfront on the St. Marys River in Northern Ontario",
+    blurDataURL: "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoQAAkAA4BaJaACdEf/gfL6XD4wAAD+mDQrS8mmIyQ5IKD+/O7SarKxNAQ0D7kU8OWypr7FY4eIec4AAAA=",
+  },
+  "sup-paper-bags": {
+    src: "/images/supplies/paper-bags.webp",
+    width: 1400,
+    height: 1050,
+    alt: "A stack of brown kraft paper bags",
+    blurDataURL: "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAAwAA4BaJQBOgCGtuSV2AAD2v75Kh2Aj8elz0zL7IF+vnT/lCo7D6n766Io1ja6WTOPiKAlkxazOjy6AUMdMrXYTsAAA",
+  },
+  "sup-shipping-boxes": {
+    src: "/images/supplies/shipping-boxes.webp",
+    width: 1400,
+    height: 1050,
+    alt: "Stacked corrugated cardboard shipping boxes",
+    blurDataURL: "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoQAAwAA4BaJYwCdH8AGN1XBt2+gAD+7qADeUxq/NzfljLV0MbUHjjjIQbb7SPnyaivtonouDpHWAWL+uAAAA==",
+  },
 } satisfies Record<string, SiteImage>;
 
 export type SiteImageId = keyof typeof siteImages;

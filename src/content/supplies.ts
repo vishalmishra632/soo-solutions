@@ -53,7 +53,7 @@ export const supplyCategories: SupplyCategory[] = [
     slug: "restaurant-supplies",
     name: "Restaurant & Packaging Supplies",
     blurb:
-      "Takeout containers, bags, boxes, and disposable tableware local kitchens and shops reorder by the case.",
+      "Takeout containers, paper and carrier bags, food and shipping boxes in every size, plus disposable tableware — the packaging local kitchens and shops reorder by the case.",
     icon: "Utensils",
     items: [
       {
@@ -64,11 +64,25 @@ export const supplyCategories: SupplyCategory[] = [
         imageId: "sup-takeout-containers",
       },
       {
-        name: "Bags & Boxes",
-        spec: "Kraft paper bags, handled poly bags, and folding white boxes for retail and takeout.",
+        name: "Paper & Carrier Bags",
+        spec: "Brown kraft paper bags, handled carrier bags, and takeout bags — from small bakery sizes to large grocery and retail.",
         packNote: "By the bundle or case — ask for pallet rates.",
-        options: ["Kraft bag", "Poly bag", "White box"],
+        options: ["Small", "Medium", "Large", "Handled"],
+        imageId: "sup-paper-bags",
+      },
+      {
+        name: "Folding Cartons & Food Boxes",
+        spec: "Folding white and kraft cartons, pizza and food boxes, and bakery boxes for takeout counters and retail.",
+        packNote: "By the bundle or case — mixed sizes on request.",
+        options: ["Food box", "Pizza box", "Bakery box"],
         imageId: "sup-bags-boxes",
+      },
+      {
+        name: "Corrugated Shipping Boxes",
+        spec: "Single and double-wall corrugated boxes and mailers in a full range of sizes — for shipping, storage, and moving.",
+        packNote: "By the bundle or pallet — mixed-size cases on request.",
+        options: ["Small", "Medium", "Large", "Mailer"],
+        imageId: "sup-shipping-boxes",
       },
       {
         name: "Cutlery, Cups & Napkins",

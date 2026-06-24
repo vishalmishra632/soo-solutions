@@ -8,7 +8,7 @@ WebP (quality ~82, EXIF stripped) with a base64 blur placeholder. Photos come fr
 > shots are trademarked; the partner logos here are neutral text lockups (placeholders) and the camera-type images
 > are generic stock stand-ins. See "Client-owned assets still needed" below.
 
-## Photographs (39 files)
+## Photographs (42 files)
 
 | File | Source | Author | License |
 |---|---|---|---|
@@ -51,6 +51,9 @@ WebP (quality ~82, EXIF stripped) with a base64 blur placeholder. Photos come fr
 | `/images/supplies/thermal-rolls-80mm.webp` | [Flickr](https://www.flickr.com/photos/185514373@N06/49059520758) | shop8447 | CC0 1.0 |
 | `/images/supplies/debit-rolls-57mm.webp` | [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=156143903) | Acheolg | BY-SA 4.0 |
 | `/images/supplies/bond-2ply-rolls.webp` | [Flickr](https://www.flickr.com/photos/185514373@N06/49060310903) | shop8447 | CC0 1.0 |
+| `/images/about/sault-ste-marie-waterfront.webp` | [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=154220629) | WabbitWanderer | BY-SA 2.0 |
+| `/images/supplies/paper-bags.webp` | [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=180612727) | Tessa Bury | BY 4.0 |
+| `/images/supplies/shipping-boxes.webp` | [Flickr](https://www.flickr.com/photos/158517012@N07/47303024801) | hireahelper | BY 2.0 |
 
 ## Partner logos (placeholders — `public/images/partners/`)
 

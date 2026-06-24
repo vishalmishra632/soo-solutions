@@ -2,7 +2,7 @@ import { SiteImage } from "@/components/shared/site-image";
 import { RevealOnScroll } from "@/components/shared/reveal-on-scroll";
 import { aboutStory } from "@/content/about";
 
-// "Our story" — why the company is named after Sault Ste. Marie ("the Soo"), founded 2021, paired with a
+// "Our story" — the founders' 2019 arrival in the Soo and why the company carries its name, paired with a
 // camera image. Content-driven from aboutStory; two-column on desktop, stacks on mobile.
 export function AboutStory() {
   return (

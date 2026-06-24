@@ -75,7 +75,7 @@ export function ServiceRadar({ cityName }: { cityName: string }) {
         className="absolute top-3 left-3 flex items-center gap-1.5 font-mono text-[10px] tracking-widest text-blue-200/70 uppercase"
       >
         <span className="size-1.5 rounded-full bg-emerald-400 motion-safe:animate-pulse" />
-        Local · since 2021
+        Local · since 2019
       </div>
     </div>
   );

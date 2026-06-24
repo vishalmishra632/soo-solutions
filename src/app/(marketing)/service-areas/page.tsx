@@ -20,7 +20,7 @@ const POINTS = [
     label: "Based here",
     value: `${SITE.contact.address.street.split(",")[0]} · ${SITE.contact.address.city}`,
   },
-  { icon: Clock, label: "Since 2021", value: "Local owners, on the tools ourselves" },
+  { icon: Clock, label: "Since 2019", value: "Local owners, on the tools ourselves" },
   { icon: ShieldCheck, label: "Coverage", value: "The city and the surrounding area" },
   { icon: LifeBuoy, label: "Support", value: "A short drive away, after install" },
 ];

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Mail, MessageCircle, Phone } from "lucide-react";
+import { Boxes, Mail, MessageCircle, Package, Phone, Tag } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { SuppliesOrder } from "@/components/sections/supplies-order";
 import { CtaBand } from "@/components/sections/cta-band";
@@ -26,42 +26,64 @@ export default function SuppliesPage() {
   const enquiryWhatsAppHref = whatsappHref(suppliesEnquiryMessage);
 
   return (
-    <main id="main-content" tabIndex={-1}>
+    <main id="main-content" tabIndex={-1} className="supplies-theme">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }}
       />
 
-      <section className="mx-auto w-full max-w-3xl px-6 pt-20 pb-4 md:pt-28">
-        <p className="font-display text-primary text-sm font-medium tracking-widest uppercase">
-          {suppliesIntro.eyebrow}
-        </p>
-        <h1 className="font-display text-foreground mt-3 text-[clamp(2.25rem,5vw,3.75rem)] font-bold tracking-tight">
-          {suppliesIntro.title}
-        </h1>
-        <p className="text-muted-foreground mt-4 max-w-[60ch] text-lg">
-          {suppliesIntro.description}
-        </p>
+      <section className="relative overflow-hidden">
+        <div
+          aria-hidden
+          className="pointer-events-none absolute inset-0 -z-10"
+          style={{
+            background: "radial-gradient(75% 70% at 82% 0%, oklch(0.85 0.09 68 / 0.5), transparent 60%)",
+          }}
+        />
+        <div aria-hidden className="grain pointer-events-none absolute inset-0 -z-10 opacity-[0.3]" />
+        <div className="mx-auto w-full max-w-3xl px-6 pt-20 pb-10 md:pt-28">
+          <p className="font-display text-primary text-sm font-medium tracking-widest uppercase">
+            {suppliesIntro.eyebrow}
+          </p>
+          <h1 className="font-display text-foreground mt-3 text-[clamp(2.25rem,5vw,3.75rem)] font-bold tracking-tight">
+            {suppliesIntro.title}
+          </h1>
+          <p className="text-muted-foreground mt-4 max-w-[60ch] text-lg">
+            {suppliesIntro.description}
+          </p>
 
-        <div className="mt-8 flex flex-wrap gap-3">
-          <Button asChild size="lg">
-            <a href={enquiryWhatsAppHref} target="_blank" rel="noopener noreferrer">
-              <MessageCircle className="size-4" aria-hidden />
-              Enquire on WhatsApp
-            </a>
-          </Button>
-          <Button asChild size="lg" variant="outline">
-            <a href={callHref()}>
-              <Phone className="size-4" aria-hidden />
-              Call Now
-            </a>
-          </Button>
-          <Button asChild size="lg" variant="outline">
-            <a href={enquiryEmailHref}>
-              <Mail className="size-4" aria-hidden />
-              Email a List
-            </a>
-          </Button>
+          <div className="mt-8 flex flex-wrap gap-3">
+            <Button asChild size="lg">
+              <a href={enquiryWhatsAppHref} target="_blank" rel="noopener noreferrer">
+                <MessageCircle className="size-4" aria-hidden />
+                Enquire on WhatsApp
+              </a>
+            </Button>
+            <Button asChild size="lg" variant="outline">
+              <a href={callHref()}>
+                <Phone className="size-4" aria-hidden />
+                Call Now
+              </a>
+            </Button>
+            <Button asChild size="lg" variant="outline">
+              <a href={enquiryEmailHref}>
+                <Mail className="size-4" aria-hidden />
+                Email a List
+              </a>
+            </Button>
+          </div>
+
+          <div className="border-border/70 text-muted-foreground mt-9 flex flex-wrap items-center gap-x-6 gap-y-2 border-t pt-5 text-sm font-medium">
+            <span className="text-primary inline-flex items-center gap-1.5">
+              <Package className="size-4" aria-hidden /> By the case
+            </span>
+            <span className="text-primary inline-flex items-center gap-1.5">
+              <Boxes className="size-4" aria-hidden /> By the pallet
+            </span>
+            <span className="text-primary inline-flex items-center gap-1.5">
+              <Tag className="size-4" aria-hidden /> Case &amp; pallet pricing
+            </span>
+          </div>
         </div>
       </section>
 

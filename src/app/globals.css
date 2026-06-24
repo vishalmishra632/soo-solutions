@@ -322,6 +322,15 @@ html.lenis body {
   }
 }
 
+/* The Supplies page wears a warm "trade counter" identity: a wholesale amber accent in place of the
+   security blue. It only swaps the accent tokens, so it holds up in both light and dark mode and every
+   component (buttons, cards, order bar) recolours automatically. Applied via .supplies-theme on the page. */
+.supplies-theme {
+  --primary: oklch(0.58 0.14 52);
+  --primary-foreground: oklch(0.99 0.012 95);
+  --ring: oklch(0.58 0.14 52);
+}
+
 @media (prefers-reduced-motion: reduce) {
   .animate-marquee,
   .animate-aperture-spin,

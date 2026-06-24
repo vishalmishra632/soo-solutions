@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="170" viewBox="0 0 260 170" role="img" aria-label="Soo Solutions"><title>Soo Solutions</title>
+<g transform="translate(80 6) scale(1)"><defs><mask id="ls"><rect width="100" height="100" fill="#fff"/><circle cx="63" cy="37" r="27.5" fill="#000"/></mask></defs>
+<g mask="url(#ls)"><circle cx="37" cy="63" r="21" fill="none" stroke="#1c2540" stroke-width="8"/><circle cx="37" cy="63" r="5" fill="#1c2540"/></g>
+<circle cx="63" cy="37" r="21" fill="none" stroke="#2563eb" stroke-width="8"/><circle cx="63" cy="37" r="5" fill="#1c2540"/></g>
+<text x="130" y="152" font-family="'Space Grotesk', 'General Sans', ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.02em" fill="#1c2540">Soo Solutions</text><style>text{text-anchor:middle}</style></svg>

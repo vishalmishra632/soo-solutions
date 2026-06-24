@@ -1,0 +1,1496 @@
+{
+  "privacy": {
+    "sections": [
+      {
+        "id": "introduction",
+        "heading": "Introduction",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": " (\"we\", \"us\", or \"our\") supplies and professionally installs security camera and CCTV systems for commercial and residential properties across Canada. We respect your privacy and are committed to protecting the personal information you entrust to us."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "This Privacy Policy explains how we collect, use, disclose, and safeguard personal information through our marketing website and the quote and contact form on it. It does not cover the separate written agreements that govern our supply, installation, and warranty services, which set out their own terms."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We handle personal information in accordance with Canada's federal privacy law, the "
+              },
+              {
+                "text": "Personal Information Protection and Electronic Documents Act (PIPEDA)",
+                "href": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/"
+              },
+              {
+                "text": ". Depending on where you live, a provincial privacy law, such as those in Quebec, British Columbia, or Alberta, may also apply to how your information is handled, and we follow those requirements where they do. We operate from "
+              },
+              {
+                "fact": "province"
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "information-we-collect",
+        "heading": "Personal Information We Collect",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We collect only the personal information we reasonably need to respond to you and to operate this website. This falls into two categories."
+              }
+            ]
+          },
+          {
+            "kind": "subheading",
+            "text": "Information you give us"
+          },
+          {
+            "kind": "definitions",
+            "entries": [
+              {
+                "term": "Name",
+                "runs": [
+                  {
+                    "text": "The name you provide so we can address you and identify your request."
+                  }
+                ]
+              },
+              {
+                "term": "Email address",
+                "runs": [
+                  {
+                    "text": "Used to reply to your enquiry, send your quote, and confirm appointments."
+                  }
+                ]
+              },
+              {
+                "term": "Phone number",
+                "runs": [
+                  {
+                    "text": "Used to reach you about your request and to schedule a site assessment or installation."
+                  }
+                ]
+              },
+              {
+                "term": "Property type",
+                "runs": [
+                  {
+                    "text": "Whether the property is commercial or residential, so we can scope the right system for you."
+                  }
+                ]
+              },
+              {
+                "term": "Property address and message details",
+                "runs": [
+                  {
+                    "text": "The address or location of the property and anything else you choose to tell us in the message field, so we can understand your needs and prepare an accurate estimate."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "subheading",
+            "text": "Information collected automatically"
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "When you visit the site, and only as described in the Cookies and Tracking section below, we may automatically collect limited technical information, including:"
+              }
+            ]
+          },
+          {
+            "kind": "list",
+            "ordered": false,
+            "items": [
+              [
+                {
+                  "text": "your IP address;"
+                }
+              ],
+              [
+                {
+                  "text": "your device type, operating system, and browser type;"
+                }
+              ],
+              [
+                {
+                  "text": "the pages you view and how you navigate the site, collected through analytics; and"
+                }
+              ],
+              [
+                {
+                  "text": "cookies and similar identifiers, as explained below."
+                }
+              ]
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "We do not ask for sensitive information such as government IDs, financial account numbers, or payment card details through this website. Please do not include sensitive details in the form's free-text fields."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "heading": "Why We Collect It and How We Use It",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We identify the purposes for collecting your personal information at or before the time we collect it. We use the information described above to:"
+              }
+            ]
+          },
+          {
+            "kind": "list",
+            "ordered": false,
+            "items": [
+              [
+                {
+                  "text": "respond to your quote requests and enquiries and prepare estimates;"
+                }
+              ],
+              [
+                {
+                  "text": "schedule and carry out site assessments and installations;"
+                }
+              ],
+              [
+                {
+                  "text": "communicate with you about your request, including follow-up questions and appointment details;"
+                }
+              ],
+              [
+                {
+                  "text": "operate, maintain, secure, and improve the website, including protecting the form against spam and abuse; and"
+                }
+              ],
+              [
+                {
+                  "text": "meet our legal, regulatory, and record-keeping obligations."
+                }
+              ]
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We will not use your personal information for a new purpose that is not described here without first identifying that purpose and, where required, obtaining your consent. The estimates and quotes we provide are not binding contracts; the supply and installation of any system is governed by a separate written agreement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "consent",
+        "heading": "Consent",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "When you submit the quote or contact form, you give us your express consent to collect and use the information in that form for the purposes described in this policy. Submitting the form is a deliberate step you take to ask us to contact you."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "For non-essential website analytics, we rely on your opt-in consent. Analytics are off by default and do not load until you affirmatively accept them through the cookie banner. Until you accept, we do not load them, which means we treat your express acceptance as the basis for any non-essential tracking."
+              }
+            ]
+          },
+          {
+            "kind": "subheading",
+            "text": "Marketing email and CASL"
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Replying to your enquiry or sending your quote is not marketing. If we ever send you commercial or marketing email, we will do so only in line with Canada's Anti-Spam Legislation (CASL): we will obtain your express consent first, every message will clearly identify us, and each one will include a working unsubscribe option that we will honour promptly."
+              }
+            ]
+          },
+          {
+            "kind": "subheading",
+            "text": "Withdrawing your consent"
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice, by contacting our Privacy Officer using the details in the Contact section. You can decline or change your analytics choice at any time through the cookie banner. If you withdraw consent, we may no longer be able to respond to your request or provide the service you asked for, and we will explain the likely consequences before you decide."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cookies-tracking",
+        "heading": "Cookies and Tracking",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Cookies are small files stored on your device. We use a small number of cookies and similar technologies, which fall into two groups."
+              }
+            ]
+          },
+          {
+            "kind": "subheading",
+            "text": "Essential cookies"
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Essential cookies are needed for the site to work and to remember your privacy choices. This includes a first-party cookie named \"soo-cookie-consent\", which records whether you have accepted or declined analytics so we can respect your choice on future visits. Because this cookie exists to honour your preferences and keep the site functioning, it is always active and does not require separate consent."
+              }
+            ]
+          },
+          {
+            "kind": "subheading",
+            "text": "Non-essential analytics"
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Non-essential cookies and scripts support website analytics. They are off by default and load only after you accept them through the cookie banner. If you decline, they are not loaded."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We use the following third-party services on the site:"
+              }
+            ]
+          },
+          {
+            "kind": "definitions",
+            "entries": [
+              {
+                "term": "Vercel",
+                "runs": [
+                  {
+                    "text": "Hosts the website and provides Web Analytics and Speed Insights, which give us aggregate, non-identifying information about site traffic and performance. Analytics run only after you consent. See "
+                  },
+                  {
+                    "text": "Vercel's privacy policy",
+                    "href": "https://vercel.com/legal/privacy-policy"
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "term": "Resend",
+                "runs": [
+                  {
+                    "text": "Delivers your form submission to us by email so we can respond. See "
+                  },
+                  {
+                    "text": "Resend's privacy policy",
+                    "href": "https://resend.com/legal/privacy-policy"
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "term": "Cloudflare Turnstile",
+                "runs": [
+                  {
+                    "text": "Protects the form against spam and automated abuse without using intrusive tracking. See "
+                  },
+                  {
+                    "text": "Cloudflare's privacy policy",
+                    "href": "https://www.cloudflare.com/privacypolicy/"
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "term": "Google Maps",
+                "runs": [
+                  {
+                    "text": "If a service-area map is shown, it is embedded from Google Maps, and Google may receive technical information such as your IP address to display it. See "
+                  },
+                  {
+                    "text": "Google's privacy policy",
+                    "href": "https://policies.google.com/privacy"
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "You can change your analytics choice at any time using the cookie banner. You can also block or delete cookies through your browser settings, though doing so may affect how parts of the site work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "service-providers-transfers",
+        "heading": "Service Providers and Cross-Border Transfers",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We share limited personal information with the service providers listed above so they can perform services on our behalf, such as hosting the site, delivering your form submission to us, protecting against spam, and providing analytics. These providers may only use the information to provide their service to us and are required to protect it."
+              }
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "We do not sell your personal information, and we do not rent or trade it for marketing purposes."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Some of our service providers store or process personal information outside Canada, including in the United States. The providers we use for hosting and analytics (Vercel), email delivery of your form submission (Resend), bot protection (Cloudflare Turnstile), and the map embed (Google) are among those that may process data in the United States. When information is held in another country, it may be accessible to the courts, law enforcement, and national security authorities of that country under their laws, including through lawful access requests, and those laws may differ from Canada's. We use reputable providers and rely on contractual and technical protections to keep your information safe wherever it is processed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "retention",
+        "heading": "Data Retention",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We keep personal information only as long as we need it to fulfil the purposes described in this policy or as required by law, after which we securely delete or anonymize it."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Our standard retention period for information submitted through the website is "
+              },
+              {
+                "fact": "retentionPeriod"
+              },
+              {
+                "text": ". Where a longer period is required to meet a legal, accounting, or regulatory obligation, we retain the information for that period and no longer."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "safeguards",
+        "heading": "Security Safeguards",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We protect personal information with safeguards appropriate to its sensitivity. These include:"
+              }
+            ]
+          },
+          {
+            "kind": "list",
+            "ordered": false,
+            "items": [
+              [
+                {
+                  "text": "encryption of data in transit using industry-standard protocols;"
+                }
+              ],
+              [
+                {
+                  "text": "access controls that limit who can view your information to those who need it to do their job;"
+                }
+              ],
+              [
+                {
+                  "text": "spam and bot protection on the form to reduce abuse; and"
+                }
+              ],
+              [
+                {
+                  "text": "the use of vetted, reputable service providers who maintain their own security measures."
+                }
+              ]
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "No website or method of transmission or storage is perfectly secure. While we work to protect your information, we cannot guarantee absolute security. If a breach of security safeguards creates a real risk of significant harm to you, we will notify you and report to the Office of the Privacy Commissioner of Canada as required by PIPEDA, and we will keep records of breaches as the law requires. If you believe your information has been compromised, please contact our Privacy Officer."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "heading": "Your Privacy Rights",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Subject to certain legal exceptions, you have the right to:"
+              }
+            ]
+          },
+          {
+            "kind": "list",
+            "ordered": false,
+            "items": [
+              [
+                {
+                  "text": "access the personal information we hold about you and ask how it has been used and disclosed;"
+                }
+              ],
+              [
+                {
+                  "text": "ask us to correct information that is inaccurate or incomplete; and"
+                }
+              ],
+              [
+                {
+                  "text": "withdraw your consent to our use of your information, subject to legal and contractual limits."
+                }
+              ]
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Depending on where you live, a provincial privacy law may give you additional rights, such as data portability or the ability to ask that certain information be de-indexed. Residents of "
+              },
+              {
+                "fact": "province"
+              },
+              {
+                "text": " or another province may also be able to deal with a provincial regulator, such as Quebec's Commission d'acces a l'information or the Information and Privacy Commissioner in British Columbia or Alberta."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "To exercise any of these rights, contact our Privacy Officer using the details in the Contact section. We will respond within the timeframes required by law and may need to verify your identity before acting on your request."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If you are not satisfied with how we have handled your personal information, you have the right to complain to the "
+              },
+              {
+                "text": "Office of the Privacy Commissioner of Canada",
+                "href": "https://www.priv.gc.ca/"
+              },
+              {
+                "text": ". You can reach its public enquiries line at "
+              },
+              {
+                "text": "1-800-282-1376",
+                "href": "tel:1-800-282-1376"
+              },
+              {
+                "text": ". A provincial privacy regulator may also have authority over your complaint depending on where you live."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "childrens-privacy",
+        "heading": "Children's Privacy",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Our website and services are intended for adults arranging security systems for their property. They are not directed to children, and we do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact our Privacy Officer and we will take reasonable steps to delete it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "heading": "Links to Third-Party Sites",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Our website may link to third-party sites, and it references brands such as Lorex, Hikvision, and HiLook, which are trademarks of their respective owners. We are an authorized partner and installer, not the owner of those brands."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We are not responsible for the privacy practices or content of any website we do not operate. When you follow a link to another site, we encourage you to review that site's own privacy policy before providing any personal information."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "heading": "Changes to This Policy",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We may update this Privacy Policy from time to time to reflect changes in our practices, technology, or legal requirements. The \"last updated\" date shown with this policy indicates when the current version took effect."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We will post any changes on this page. If the changes are material, we will make the update clear so you can review what has changed before continuing to use the site."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "heading": "Contact Us",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If you have questions about this policy, want to exercise your privacy rights, or wish to make a complaint, please contact our Privacy Officer:"
+              }
+            ]
+          },
+          {
+            "kind": "definitions",
+            "entries": [
+              {
+                "term": "Privacy Officer",
+                "runs": [
+                  {
+                    "fact": "privacyOfficerName"
+                  }
+                ]
+              },
+              {
+                "term": "Email",
+                "runs": [
+                  {
+                    "fact": "privacyOfficerEmail"
+                  }
+                ]
+              },
+              {
+                "term": "Phone",
+                "runs": [
+                  {
+                    "fact": "privacyOfficerPhone"
+                  }
+                ]
+              },
+              {
+                "term": "Mailing address",
+                "runs": [
+                  {
+                    "fact": "registeredAddress"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We will acknowledge your request and respond within the timeframes required by applicable privacy law."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": "How we collect, use, protect, and share the personal information you provide through this website and its quote and contact form, and the privacy rights you have under Canadian law.",
+    "title": "Privacy Policy"
+  },
+  "terms": {
+    "sections": [
+      {
+        "id": "acceptance",
+        "heading": "Acceptance of These Terms",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "These Terms & Conditions (the "
+              },
+              {
+                "text": "\"Terms\""
+              },
+              {
+                "text": ") govern your access to and use of the website operated by "
+              },
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": " (\"we\", \"us\", or \"our\"). By visiting or using this website, you confirm that you have read these Terms and agree to be bound by them."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If you do not agree with any part of these Terms, please do not use the website. Your continued use of the site is taken as your ongoing acceptance of the version of these Terms in effect at the time."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "These Terms work alongside our "
+              },
+              {
+                "text": "Privacy Policy",
+                "href": "/privacy"
+              },
+              {
+                "text": ", which explains how we handle personal information you provide through the site."
+              }
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "These Terms were last updated on "
+              },
+              {
+                "fact": "retentionPeriod"
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "about-services",
+        "heading": "About This Website & Our Services",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "This is an informational marketing website. It tells you about "
+              },
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": " and the security camera and CCTV supply and installation services we offer for commercial and residential properties. It also lets you request a quote or contact us through our online form."
+              }
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "Any quote, estimate, price, or specification shown on this website or generated from our contact form is for information only. It is not an offer, and it is not a binding contract. Figures may change after we assess your property and confirm scope, equipment, and site conditions."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Our actual supply and installation work, and any product warranties, are covered by separate written agreements signed by you and us. Those agreements, not this website, set out the terms of the work we perform, pricing, timelines, and warranty coverage. If anything on this website appears to conflict with a signed service agreement, the signed agreement controls."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Submitting the contact or quote form does not create any obligation on either side. It simply starts a conversation. A contract is formed only when both parties sign a written service agreement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eligibility",
+        "heading": "Eligibility",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "To use this website and to submit a request through our form, you must be old enough to enter into a binding contract under the laws of your province or territory, which generally means you have reached the age of majority where you live."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If you are using the website on behalf of a business or another person, you confirm that you are authorized to act for them and to accept these Terms on their behalf."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "heading": "Intellectual Property",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "The content on this website, including the text, page design, layout, graphics, photographs, and our logos, is owned by "
+              },
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": " or by our licensors, and is protected by Canadian and international intellectual property laws."
+              }
+            ]
+          },
+          {
+            "kind": "subheading",
+            "text": "Third-party brands"
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We reference equipment brands such as Lorex, Hikvision, and HiLook because we supply and install their products. Those names, logos, and trademarks belong to their respective owners. "
+              },
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": " is an authorized partner and installer of these products. We are not the brand owner, and our use of these names does not imply that the brand owners endorse or are affiliated with our website beyond that supplier relationship."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "You may view and read this website for your own personal, non-commercial purposes. We do not grant you any other licence or right. You may not copy, reproduce, republish, distribute, or create derivative works from our content without our prior written permission, except where the law allows."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "acceptable-use",
+        "heading": "Acceptable Use",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "You agree to use this website lawfully and respectfully. In particular, you agree that you will not:"
+              }
+            ]
+          },
+          {
+            "kind": "list",
+            "ordered": false,
+            "items": [
+              [
+                {
+                  "text": "Use the website for any unlawful purpose or in a way that breaches any applicable law or regulation."
+                }
+              ],
+              [
+                {
+                  "text": "Scrape, harvest, crawl, or otherwise collect data from the website using automated tools, except for legitimate search-engine indexing."
+                }
+              ],
+              [
+                {
+                  "text": "Interfere with or disrupt the website, its servers, or its security, or attempt to gain unauthorized access to any part of it or its underlying systems."
+                }
+              ],
+              [
+                {
+                  "text": "Submit content that infringes anyone's rights, or that is false, misleading, defamatory, harmful, or malicious, including malware or other harmful code."
+                }
+              ],
+              [
+                {
+                  "text": "Misuse the contact or quote form, for example by sending spam, submitting another person's information without their permission, or impersonating someone else."
+                }
+              ]
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We may restrict or block access to the website if we reasonably believe you have breached these Terms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "third-party-links-brands",
+        "heading": "Third-Party Links & Brand References",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "This website may link to third-party websites, may embed a Google Maps view to show our service area, and may mention third-party products and brands. We provide these links and references for your convenience and information only."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We do not control third-party websites or services, and we are not responsible for their content, accuracy, availability, products, or privacy practices. A link or brand reference on our site does not mean we endorse that third party, and it does not create any partnership between us and them beyond what we describe. When you leave our website, the terms and privacy policy of the third party apply."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "disclaimers",
+        "heading": "Disclaimers",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "The website is provided on an \"as is\" and \"as available\" basis. While we try to keep the information accurate and current, we make no warranty or representation that the content is complete, accurate, up to date, or error free, or that the website will always be available, uninterrupted, or secure."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Information on this website is general in nature and does not amount to professional or technical advice for your specific property. Any final recommendation depends on an on-site assessment."
+              }
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "Nothing on this website is a warranty for any product or installation. Product warranties and installation warranties are provided only through separate written agreements. This disclaimer does not exclude or limit any warranty or right that cannot be excluded or limited under applicable Canadian consumer protection law."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "limitation-of-liability",
+        "heading": "Limitation of Liability",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "To the fullest extent permitted by law, "
+              },
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": ", and its directors, officers, employees, and contractors, will not be liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of profits, revenue, data, or goodwill, arising out of or relating to your use of, or inability to use, this website."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Where liability cannot lawfully be excluded but can be limited, our total liability arising from or relating to your use of the website (and excluding any matter governed by a separate written service agreement) is limited to one hundred Canadian dollars (CAD $100)."
+              }
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law, such as liability for death or personal injury caused by negligence, for fraud, or under consumer protection legislation. Liability connected to actual supply and installation work is dealt with in the separate written service agreement, not here."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "heading": "Indemnification",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "You agree to indemnify and hold harmless "
+              },
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": ", and its directors, officers, employees, and contractors, from any claims, demands, losses, liabilities, and reasonable legal costs that arise out of or relate to your misuse of the website, your breach of these Terms, or your violation of any law or third-party right in connection with your use of the website. This obligation continues even after you stop using the website."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Nothing in this section requires you to indemnify us to an extent prohibited by applicable consumer protection law."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "privacy",
+        "heading": "Privacy",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Your use of this website is also governed by our "
+              },
+              {
+                "text": "Privacy Policy",
+                "href": "/privacy"
+              },
+              {
+                "text": ", which explains what personal information we collect through the contact and quote form, how we use it, the cookies and analytics we use, and the sub-processors that help us run the site. Some of those sub-processors are located outside Canada, which means your information may be processed in another country and may be subject to that country's laws, including lawful access by foreign authorities."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "In line with Canada's anti-spam law (CASL), we only send commercial or marketing email where you have given express consent, we identify ourselves clearly in every message, and we include a working way to unsubscribe. The Privacy Policy sets out the full detail, and you should read it together with these Terms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "heading": "Governing Law & Jurisdiction",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "These Terms, and any dispute or claim arising out of or in connection with them or your use of the website, are governed by the laws of the Province of "
+              },
+              {
+                "fact": "governingProvince"
+              },
+              {
+                "text": " and the federal laws of Canada that apply there, without regard to conflict-of-laws rules."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "You agree that the courts located in the Province of "
+              },
+              {
+                "fact": "governingProvince"
+              },
+              {
+                "text": " have non-exclusive jurisdiction to resolve any such dispute, subject to any mandatory consumer protection rights you have in your own province or territory."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "heading": "Changes to These Terms",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We may update these Terms from time to time, for example to reflect changes to the website, our services, or the law. When we do, we will post the revised version on this page and update the \"last updated\" date shown with it."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "The version posted at the time you use the website is the one that applies. By continuing to use the website after an update takes effect, you accept the revised Terms. We encourage you to review this page periodically."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Changes that affect how we handle your personal information are addressed separately through the update mechanism set out in our "
+              },
+              {
+                "text": "Privacy Policy",
+                "href": "/privacy"
+              },
+              {
+                "text": ", so you are not relying on this page alone for privacy-related updates."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "severability-entire-agreement",
+        "heading": "Severability & Entire Agreement",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If any provision of these Terms is found to be invalid or unenforceable, that provision will be limited or removed to the minimum extent necessary, and the remaining provisions will stay in full force and effect."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "These Terms, together with our "
+              },
+              {
+                "text": "Privacy Policy",
+                "href": "/privacy"
+              },
+              {
+                "text": " and any separate written service agreements between you and us, make up the entire agreement between you and "
+              },
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": " regarding your use of this website, and they replace any earlier understanding on that subject."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "heading": "Contact Us",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If you have any questions about these Terms, please reach out to us:"
+              }
+            ]
+          },
+          {
+            "kind": "definitions",
+            "entries": [
+              {
+                "term": "Company",
+                "runs": [
+                  {
+                    "fact": "entityName"
+                  }
+                ]
+              },
+              {
+                "term": "Mailing address",
+                "runs": [
+                  {
+                    "fact": "registeredAddress"
+                  }
+                ]
+              },
+              {
+                "term": "Email",
+                "runs": [
+                  {
+                    "fact": "privacyOfficerEmail"
+                  }
+                ]
+              },
+              {
+                "term": "Phone",
+                "runs": [
+                  {
+                    "fact": "privacyOfficerPhone"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "Terms & Conditions",
+    "summary": "These Terms govern your use of the Soo Solutions Inc website, an informational site for security camera supply and installation; quotes shown here are not binding, and actual work is covered by separate written agreements."
+  },
+  "accessibility": {
+    "sections": [
+      {
+        "id": "commitment",
+        "heading": "Our commitment to accessibility",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "fact": "entityName"
+              },
+              {
+                "text": " is committed to providing an accessible and inclusive digital experience for people of all abilities. We want everyone — including people who use screen readers, keyboard navigation, screen magnification, or other assistive technologies — to be able to learn about our security camera and CCTV installation services, request a quote, and reach us without barriers."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Accessibility is not a one-time project for us. We treat it as an ongoing part of how we design, build, and maintain this website, and we work to improve it as standards evolve and as we receive feedback from visitors."
+              }
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "This statement last updated: "
+              },
+              {
+                "text": "[date]",
+                "href": "/accessibility"
+              },
+              {
+                "text": ". It applies to this website. Our conformance claims are based on our own internal review and ongoing testing rather than a formal third-party audit."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "standard",
+        "heading": "Conformance standard",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We build this site to meet the "
+              },
+              {
+                "text": "Web Content Accessibility Guidelines (WCAG) 2.2 at Level AA",
+                "href": "https://www.w3.org/TR/WCAG22/"
+              },
+              {
+                "text": ". WCAG is the internationally recognized standard for making web content more accessible to people with a wide range of disabilities, including visual, auditory, physical, speech, cognitive, and neurological disabilities."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We use WCAG 2.2 Level AA, together with the accessibility principles set out in the Accessibility for Ontarians with Disabilities Act (AODA) and its Integrated Accessibility Standards Regulation, as our working benchmark for this website — regardless of the province where we are registered. Accessibility laws and standards may also apply in our registered province ("
+              },
+              {
+                "fact": "province"
+              },
+              {
+                "text": "), in other provinces, and at the federal level, and we monitor these as part of our ongoing work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "measures",
+        "heading": "What we have done",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We have built accessibility into the design and code of this site. Measures we have taken include:"
+              }
+            ]
+          },
+          {
+            "kind": "list",
+            "items": [
+              [
+                {
+                  "text": "Using semantic HTML structure with proper headings and landmark regions, so assistive technologies can understand and navigate the page layout."
+                }
+              ],
+              [
+                {
+                  "text": "Implementing keyboard operability across links, buttons, and the quote/contact form, so the site can be used without a mouse."
+                }
+              ],
+              [
+                {
+                  "text": "Providing visible focus indicators, so keyboard users can see which element is currently selected."
+                }
+              ],
+              [
+                {
+                  "text": "Working to maintain colour contrast between text and background that meets WCAG 2.2 Level AA contrast ratios."
+                }
+              ],
+              [
+                {
+                  "text": "Adding descriptive alternative text to meaningful images, so screen-reader users receive the information conveyed visually."
+                }
+              ],
+              [
+                {
+                  "text": "Labelling form fields clearly and surfacing helpful error messages on our quote and contact form, so it is easier to complete with assistive technology."
+                }
+              ],
+              [
+                {
+                  "text": "Respecting the operating-system \"reduced motion\" preference, so animations are minimized for visitors who are sensitive to motion."
+                }
+              ],
+              [
+                {
+                  "text": "Using a responsive layout that aims to support text resizing and browser zoom up to 200% without loss of content or functionality, across desktop, tablet, and mobile screens."
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "limitations",
+        "heading": "Known limitations",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Despite our efforts, some parts of the site may not yet fully conform to WCAG 2.2 Level AA. Accessibility is an ongoing process, and we are actively working to identify and resolve issues as we find them."
+              }
+            ]
+          },
+          {
+            "kind": "list",
+            "items": [
+              [
+                {
+                  "text": "Third-party embedded content — for example, an embedded "
+                },
+                {
+                  "text": "Google Maps",
+                  "href": "https://policies.google.com/privacy"
+                },
+                {
+                  "text": " service-area map — is controlled by an external provider, and we cannot guarantee that it fully meets the same accessibility standards as the rest of our site."
+                }
+              ],
+              [
+                {
+                  "text": "Bot-protection on our forms is provided by "
+                },
+                {
+                  "text": "Cloudflare Turnstile",
+                  "href": "https://www.cloudflare.com/privacypolicy/"
+                },
+                {
+                  "text": ", a third-party widget. Like other external components, it may have accessibility limitations we cannot directly fix."
+                }
+              ]
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "Where a third-party component creates a barrier, we will do our best to provide the same information or service through an alternative method. If you encounter content you cannot access, please tell us — see the section below — and we will help."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "feedback-contact",
+        "heading": "Feedback, contact, and alternative formats",
+        "blocks": [
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "We welcome your feedback on the accessibility of this website. If you run into an accessibility barrier, or if you would like any information on this site provided in an alternative format (for example, large print, plain text, accessible electronic text, or read over the phone), please contact us and we will be glad to help. Tell us the format and accessible medium that works best for you, and we will work with you to provide it."
+              }
+            ]
+          },
+          {
+            "kind": "definitions",
+            "entries": [
+              {
+                "term": "Email",
+                "runs": [
+                  {
+                    "fact": "privacyOfficerEmail"
+                  }
+                ]
+              },
+              {
+                "term": "Phone",
+                "runs": [
+                  {
+                    "fact": "privacyOfficerPhone"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If you prefer, you can also reach us through the "
+              },
+              {
+                "text": "contact form",
+                "href": "/contact"
+              },
+              {
+                "text": " on this website. When you get in touch, it helps to tell us the page you were on, what you were trying to do, and the assistive technology or browser you were using, so we can resolve the issue more quickly."
+              }
+            ]
+          },
+          {
+            "kind": "note",
+            "runs": [
+              {
+                "text": "We aim to acknowledge accessibility feedback within "
+              },
+              {
+                "fact": "retentionPeriod"
+              },
+              {
+                "text": " and to provide requested information in an alternative format within a reasonable timeframe. There is no charge for requesting an alternative format."
+              }
+            ]
+          },
+          {
+            "kind": "p",
+            "runs": [
+              {
+                "text": "If you are not satisfied with how we have responded to your accessibility feedback, please let us know so we can try again to put it right. You may also contact the Office of the Privacy Commissioner of Canada or the accessibility regulator in your province about your concerns. The Office of the Privacy Commissioner of Canada can be reached at "
+              },
+              {
+                "text": "www.priv.gc.ca",
+                "href": "https://www.priv.gc.ca/"
+              },
+              {
+                "text": " or "
+              },
+              {
+                "text": "1-800-282-1376",
+                "href": "tel:1-800-282-1376"
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "Accessibility Statement",
+    "summary": "This statement explains how we work to make this website accessible to people of all abilities, the standard we follow, what we have done, known limitations, and how to reach us."
+  }
+}

@@ -7,7 +7,7 @@ const phoneE164 = "+17059710676";
 export const SITE: Site = {
   name: "Soo Solutions Inc",
   shortName: "Soo Solutions",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://soo-solutions.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://soosolutions.ca",
   description:
     "Soo Solutions Inc supplies and professionally installs security cameras and CCTV systems for commercial and residential properties — certified technicians, warranty-backed work, and trusted brands.",
   taglines: [

@@ -1,8 +1,8 @@
 import type { Site } from "@/types";
 
-// Single source for the phone number (E.164). Confirmed number, shared with the sister business
-// (fonebazaar) — flows into the tel:/sms:/wa.me helpers (lib/contact.ts) and the footer/contact links.
-const phoneE164 = "+17059710676";
+// Single source for the phone number (E.164) — flows into the tel:/sms:/wa.me helpers (lib/contact.ts),
+// the footer/contact links, and the LocalBusiness JSON-LD.
+const phoneE164 = "+17052611786";
 
 export const SITE: Site = {
   name: "Soo Solutions Inc",
@@ -65,7 +65,7 @@ export const SITE: Site = {
     "Customer Satisfaction",
   ],
   contact: {
-    phoneDisplay: "+1 (705) 971-0676",
+    phoneDisplay: "+1 (705) 261-1786",
     phoneE164,
     phoneHref: `tel:${phoneE164}`,
     primaryEmail: "Support@soosolutions.ca",
